@@ -1,0 +1,42 @@
+1.function isEmpty
+P:1min
+D:1min
+C:
+A:
+
+
+2.function getAllDatabase
+P:1min
+D:1min
+C:
+A:
+
+
+3.function countGroupByBarcode
+P:1min
+D:1min
+C:
+A:
+
+
+4.function itemList
+P:1min
+D:1min
+C:
+A:
+
+
+5.function Subtotal
+P:1min
+D:1min
+C:
+A:
+
+
+6.function TotalSpend
+P:1min
+D:1min
+C:
+A:
+
+
